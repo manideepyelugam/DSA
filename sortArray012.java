@@ -1,5 +1,15 @@
 public class sortArray012 {
 
+    public static int[] sort(int a[]){
+
+        for (int i = 0; i < a.length-1; i++) {
+            for(int j = i; j < a.length;j++){
+
+            }
+        }
+
+        return a;
+    }
     public static void main(String[] args) {
         int a[] = {2,0,2,1,1,0};
 
